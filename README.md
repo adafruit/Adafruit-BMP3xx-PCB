@@ -1,14 +1,16 @@
-## Adafruit BMP388 - Precision Barometric Pressure and Altimeter PCB
+## Adafruit BMP3xx - Precision Barometric Pressure and Altimeter PCB
 
 <a href="http://www.adafruit.com/products/3966"><img src="assets/3966.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/4816"><img src="assets/4816.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit BMP388 - Precision Barometric Pressure and Altimeter. Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/3966
+* https://www.adafruit.com/product/4816
 
 ### Description
 
-Bosch has been a leader in barometric pressure sensors, from the [BMP085](https://www.adafruit.com/product/1603), [BMP180](https://www.adafruit.com/product/1603), and [BMP280](https://www.adafruit.com/product/2651)... now we've got the next generation, the **Adafruit BMP388 Precision Barometric Pressure sensor**. As you would expect, this sensor is similar to its earlier versions but even better. The BMP388 has better precision than ever, which makes it excellent for environmental sensing or as a **precision altimeter**. It can even be used in either I2C and SPI configurations.
+Bosch has been a leader in barometric pressure sensors, from the [BMP085](https://www.adafruit.com/product/1603), [BMP180](https://www.adafruit.com/product/1603), and [BMP280](https://www.adafruit.com/product/2651)... now we've got the next generation, the **Adafruit BMP3xx Precision Barometric Pressure sensor**. As you would expect, this sensor is similar to its earlier versions but even better. The BMP388 has better precision than ever, which makes it excellent for environmental sensing or as a **precision altimeter**. It can even be used in either I2C and SPI configurations.
 
 The BMP3xx is the next-generation of sensors from Bosch, and is the upgrade to the BMP280 - with a low altitude noise as low as 0.1m and the same fast conversion time. And like the previous BMP280, you can use I2C or SPI. For simple easy wiring, go with I2C. If you want to connect a bunch of sensors without worrying about I2C address collisions, go with SPI.
 
