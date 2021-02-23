@@ -1,5 +1,6 @@
 ## Adafruit BMP3xx - Precision Barometric Pressure and Altimeter PCB
 
+<a href="http://www.adafruit.com/products/3966"><img src="assets/3966-STEMMA.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/3966"><img src="assets/3966.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/4816"><img src="assets/4816.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
